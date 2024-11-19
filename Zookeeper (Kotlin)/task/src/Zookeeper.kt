@@ -117,4 +117,13 @@ val animals = arrayOf(camel, lion, deer, goose, bat, rabbit)
 
 fun main() {
     // write yor code here
+    do {
+        println("Please enter the number of the habitat you would like to view: ")
+        val answer = readln()
+        if (answer != "exit"){
+            if (answer.toInt() in 0..5)
+                println(animals[answer.toInt()])
+        }
+    } while (answer != "exit")
+    println("See you later!")
 }
