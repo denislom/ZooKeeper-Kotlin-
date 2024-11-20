@@ -10,6 +10,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Structural vs referential equality/Comparing Kotlin Data Class Objects" />
+            <option value="$PROJECT_DIR$/Topics/Structural vs referential equality/Comparing referential and structural equality of strings" />
+            <option value="$PROJECT_DIR$/Topics/Structural vs referential equality/Referential equality" />
+            <option value="$PROJECT_DIR$/Topics/Structural vs referential equality/The same object" />
+            <option value="$PROJECT_DIR$/Topics/Structural vs referential equality/Theory" />
             <option value="$PROJECT_DIR$/Zookeeper (Kotlin)/task" />
             <option value="$PROJECT_DIR$/Zookeeper (Kotlin)/task/build/classes/kotlin" />
             <option value="$PROJECT_DIR$/Zookeeper (Kotlin)/task/build/reports/tests" />
